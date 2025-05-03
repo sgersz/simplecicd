@@ -65,3 +65,5 @@ Looking for more examples of my infrastructure and cloud projects? Check out the
 - [Home Lab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
 - [Workspace Cost Reduction](https://github.com/sgersz/workspacecostreduction): A documented cloud cost optimization project migrating from AWS Workspaces to EC2 + Zscaler ZPA, achieving ~35% per-user savings.
 
+  👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
+

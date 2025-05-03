@@ -60,9 +60,10 @@ docker run -d -p 8080:80 my-flask-app
 
 ## 🔗 Related Projects
 
-Looking for more examples of my infrastructure and cloud projects? Check out these related repos:
+Explore more of my DevOps and infrastructure projects:
 
-- [Home Lab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Homelab 2025](https://github.com/sgersz/homelab2025): A secure, scalable home lab environment combining virtualization, containerization, automation, and Zero Trust networking.
+- [Homelab Monitoring](https://github.com/sgersz/homelab-monitoring): Monitoring stack for my homelab using Prometheus, Grafana, node_exporter, and cAdvisor to visualize system and Docker metrics in real time.
 - [Workspace Cost Reduction](https://github.com/sgersz/workspacecostreduction): A documented cloud cost optimization project migrating from AWS Workspaces to EC2 + Zscaler ZPA, achieving ~35% per-user savings.
 
   👉 [Connect on LinkedIn](https://www.linkedin.com/in/stevengersztyn/)
